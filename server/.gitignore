@@ -1,2 +1,8 @@
 package-lock.json
 node_modules/
+# Mailing Serivce
+export PROJECT_ID="<Your Project ID>"
+export SENDER_EMAIL_ADDRESS="calvin.nvqc@gmail.com"
+export MAILING_SERVICE_CLIENT_ID="302566334441-drnafvpa3tuior01vs5pl1q7vgp5ngg4.apps.googleusercontent.com"
+export MAILING_SERVICE_CLIENT_SECRET="qdKtTzAw_phodBIZiqsaH-GV"
+export MAILING_SERVICE_REFRESH_TOKEN="1//042VcoGK5F9tzCgYIARAAGAQSNwF-L9Irfuf1Zh4BS1YUrEMeV8p9ah2homoSth-p3ZQXhkHMdlWs8ZFpdUSLRk12GYjqx9Huxbw"
